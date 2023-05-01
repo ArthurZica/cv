@@ -1,6 +1,6 @@
 # Curriculum Vitae Online
 
-Link:https://arthurzica.github.io/cv/
+Link: https://arthurzica.github.io/cv/
 
 Sejam todos bem vindos ao projeto de Curriculum Vitae Online oferecidos pela Digital Innovation One.
 
